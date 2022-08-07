@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/fully-responsive-product-card-in-pure-html5-and-css3-on0Wns3izS)
+- Live Site URL: [Github](https://talhakhan-developer.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -45,3 +45,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@TalhaKhan](https://www.frontendmentor.io/profile/Talhakhan-Developer)
+  -Github - [@TalhaKhan](https://github.com/Talhakhan-Developer)
